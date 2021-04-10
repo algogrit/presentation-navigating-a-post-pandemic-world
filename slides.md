@@ -96,7 +96,7 @@ class: center, middle
 - Organizing meetups for the past ~4 years
 - Been part of the Chennai Tech community since 2012
 - Registered a company during the lockdown -> "CoderMana Technologies Pvt Ltd"
-- Generated revenue close to the 8-figure range in the last year
+- Generated revenue close to the 8-figure range in the last year (personal + company)
 
 ---
 
