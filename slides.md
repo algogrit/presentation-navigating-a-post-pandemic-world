@@ -63,6 +63,8 @@ class: center, middle
 - Came back to Chennai and continued working at Tarka Labs
 - Quit Tarka Labs and started a Consulting & Training company in 2018 -> AgarwalConsulting.io
 
+.content-credits[https://blog.algogrit.com/posts/2018-10-04-starting-a-new-chapter/]
+
 ---
 
 - First project out of internship, single-handedly delivered it to client while learning 3 technologies
@@ -184,6 +186,14 @@ class: center, middle
 ## Let's zoom in
 
 ---
+
+### Technology misuse
+
+- Deep Fakes
+- Surveillance state
+- Rigging of the system in favour of the "Haves"
+
+---
 class: center, middle
 
 ![AI Challenges](/assets/images/ai-challenges.png)
@@ -279,6 +289,11 @@ class: center, middle
 class: center, middle
 
 ## Discipline over motivation
+
+---
+class: center, middle
+
+## Strong community building
 
 ---
 class: center, middle
