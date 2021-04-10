@@ -6,7 +6,7 @@ layout: true
 
 class: center, middle
 
-# {title}
+# Navigating a post-pandemic World
 
 Gaurav Agarwal
 
@@ -44,7 +44,7 @@ func main() {
 class: center, middle
 
 Code
-https://github.com/algogrit/presentation-template
+https://github.com/algogrit/presentation-navigating-a-post-pandemic-world
 
 Slides
-https://template.slides.algogrit.com
+https://navigating-a-post-pandemic-world.slides.algogrit.com
