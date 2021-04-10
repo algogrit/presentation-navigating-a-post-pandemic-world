@@ -46,6 +46,8 @@ class: center, middle
 
 ![Skill Set](/assets/images/skill-set.png)
 
+.content-credits[https://algogrit.com]
+
 ---
 class: center, middle
 
